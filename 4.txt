@@ -1,0 +1,5 @@
+story 2
+
+function name()
+string namne()
+integer name()
